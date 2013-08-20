@@ -1,0 +1,8 @@
+:Title:
+PVRScopeRemote
+
+:ShortDescription:
+Demonstrates the use of pvrscope's remote features
+
+:FullDescription:
+Demonstrates the use of pvrscope's remote features

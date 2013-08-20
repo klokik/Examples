@@ -1,0 +1,6 @@
+:Title:
+Cube Shadow Mapping
+:ShortDescription:
+Shows how to use cube shadow maps for point light sources
+:FullDescription:
+Shows how to dynamically update the cube shadow map for a point light source and cast shadows using that cube shadow map.

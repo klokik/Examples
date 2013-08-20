@@ -1,0 +1,27 @@
+#
+# File			Makefile
+# Title			Example makefile
+#
+# Copyright		Copyright (C) Imagination Technologies Limited.
+#
+
+.PHONY: clean
+
+SDKDIR  = ../../../../../..
+OUTNAME = OGLESIntroducingPrint3D
+APIS    = OGLES
+DEPENDS = PVRSHELL PVRTOOLS
+
+OBJECTS +=	\
+           OGLESIntroducingPrint3D.o	\
+           Text.o	\
+           arial_36.o	\
+           starjout_60.o	\
+           title_36.o	\
+           title_46.o	\
+           title_56.o
+
+include $(SDKDIR)/Builds/Linux/make_example.mak
+
+../../Content/Text.cpp ../../Content/arial_36.cpp ../../Content/starjout_60.cpp ../../Content/title_36.cpp ../../Content/title_46.cpp ../../Content/title_56.cpp: wrap_content_files 
+

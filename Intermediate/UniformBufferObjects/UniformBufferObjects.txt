@@ -1,0 +1,6 @@
+:Title:
+Uniform Buffer Objects
+:ShortDescription:
+Shows how to use uniform buffer objects to set the values of several uniforms at once
+:FullDescription:
+Shows how to use uniform buffer objects to set the values of several shader uniforms at once.

@@ -1,0 +1,10 @@
+:Title:
+MultipleRenderTargets
+:ShortDescription:
+Shows how to use multiple render targets to output data to several different surfaces within a single pass
+:FullDescription:
+Shows how to use multiple render targets to output data to several different surfaces within a single pass
+:PolygonCount:
+4798
+:VertexCount:
+2807

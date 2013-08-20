@@ -1,0 +1,13 @@
+:Title:
+TextureArray
+
+:ShortDescription:
+Shows how to use the texture array functionality in OGLES3
+
+:FullDescription:
+Shows how to use the texture array functionality in OGLES3
+
+:Polygon Count:
+1
+:Vertex Count:
+3
